@@ -1,5 +1,7 @@
 Chest_Image_Segmentation
 -----------------------
+![image](https://github.com/user-attachments/assets/9fdefe96-b087-44f5-b25d-87845ffda3ec)
+
 U-Net 기법을 활용하여 COVID-19 관련 폐 질환의 이미지 세분화(Image Segmentation)를 구현한 코드입니다.
 
 TensorFlow Dataset을 생성하여 의료 기반에 최적화된 U-Net 아키텍처 모델에 입력하도록 설계하였습니다.
@@ -45,3 +47,7 @@ TensorFlow Dataset을 생성하여 의료 기반에 최적화된 U-Net 아키텍
 ● tf.data API : Tensorflow 데이터셋 생성 및 배치 처리에 사용
 
 ● Data Augmentation : 랜덤 회전 , 수평 플립 , 대비 조정 등을 사용하여 데이터 증강
+
+프로젝트 전체 과정
+---
+![image](https://github.com/user-attachments/assets/022c2835-aa07-4769-bbd7-e81046deeda7)
